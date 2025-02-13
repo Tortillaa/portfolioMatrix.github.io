@@ -26,4 +26,4 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 ---
 ### Author
 Aitor Pérez López
-📧 Contact: aitor.house@hotmail.com(mailto:aitor.house@hotmail.com)
+📧 Contact: aitor.house@hotmail.com
